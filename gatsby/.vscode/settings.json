@@ -29,5 +29,6 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "editor.autoIndent": true
+  "editor.autoIndent": true,
+  "javascript.suggest.autoImports": true
 }
